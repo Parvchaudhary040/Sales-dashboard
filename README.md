@@ -14,7 +14,6 @@ Interactive Power BI dashboard for analyzing sales performance.
 ## Tools Used
 - Power BI
 - Excel
-- GitHub
 
 ## Dashboard Preview
 
